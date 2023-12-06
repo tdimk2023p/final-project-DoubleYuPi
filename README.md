@@ -3,6 +3,8 @@
 # SonusExpedition: Voice-Activated Gameplay for Accessibility
 
 
+![system design](https://i.stack.imgur.com/n2HbS.png)
+
 
 ## Latar Belakang
 
