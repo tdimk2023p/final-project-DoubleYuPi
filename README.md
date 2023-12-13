@@ -25,4 +25,4 @@ Partisipan pada penelitian terdiri dari 5 orang yang senang bermain game dengan 
 3. Partisipan diberikan penjelasan mengenai objektif yang harus dilakukan dan dicapai dalam game,
 4. Partisipan juga diberikan arahan tentang metode untuk menggerakan karakter dalam game menggunakan mouse & keyboard, beserta voice commands sebagai input yang dapat menggerekan karakter dalam game ("LEFT", "RIGHT", "JUMP", "SLASH"),
 5. Setelah semua penjelasan selesai, partisipan kemudian menjalankan game dan melakukan dua kali pengujian dengan mengukur completion time objektif dari masing-masing metode (menggunakan keyboard & mouse dan voice commands),
-6. Kemudian, partisipan dimintai mengisi kuesioner (google form) 
+6. Kemudian, partisipan dimintai mengisi kuesioner (google form) - https://forms.gle/kWKspsGzvbzxE8NN9
